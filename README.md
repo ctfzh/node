@@ -1,3 +1,5 @@
+一套用来编写高性能网络服务器的JavaScript工具包。 
+
 Evented I/O for V8 javascript. [![Build Status](https://secure.travis-ci.org/joyent/node.png)](http://travis-ci.org/joyent/node)
 ===
 
